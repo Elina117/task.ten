@@ -23,7 +23,7 @@ namespace task.ten
             foreach (var i in students)
             {
                 compare.React += i.message;
-                
+
             }
 
             compare.compare(entered_event);
